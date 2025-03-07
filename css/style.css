@@ -490,7 +490,7 @@ html, body {
   .container {
     width: 100px;
     height: 300px;
-    position: absolute;
+    position: relative;
     left: 0;
     right: 0;
     top: 0;
